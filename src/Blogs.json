@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "How to Grow a Greener Tomorrow: 5 Steps to Better Plant Care",
+      "image": "/images/blog-1.jpeg",
+      "categories": ["Business", "Social Media", "Gardening"],
+      "author": "Editor",
+      "date": "January 10, 2025",
+      "pera": "Discover why soil matters more than you think. The 5 secrets plant lovers don't want you to know. Why urban jungles are taking over city spaces. The rise of eco-conscious design through greenery..."
+    },
+    {
+      "id": 2,
+      "title": "10 LeaftCraft Innovations Changing the Way We Green Our World",
+      "image": "/images/blog-2.jpeg",
+      "categories": ["Business", "Social Media", "Technology"],
+      "author": "Editor",
+      "date": "February 4, 2025",
+      "pera": "How LeaftCraft revolutionized biodegradable packaging. The truth behind their solar-powered grow kits. What happens when AI meets horticulture? The green shift no one saw coming..."
+    },
+    {
+      "id": 3,
+      "title": "Why the Future of Cities Depends on Plant Integration",
+      "image": "/images/blog-3.jpeg",
+      "categories": ["Business", "Social Media", "Innovation"],
+      "author": "Editor",
+      "date": "March 18, 2025",
+      "pera": "The vertical gardens turning buildings into forests. How LeaftCraft partners with city councils to green concrete jungles. Why every office needs living walls..."
+    },
+    {
+      "id": 4,
+      "title": "7 Plant-Based Solutions That Could Save the Planet",
+      "image": "/images/blog-4.jpeg",
+      "categories": ["Business", "Social Media", "Science"],
+      "author": "Editor",
+      "date": "April 2, 2025",
+      "pera": "What biochar means for climate action. How LeaftCraft is researching plant-powered air filters. The quiet rise of moss energy. Why the green solution is already growing..."
+    },
+    {
+      "id": 5,
+      "title": "Inside the Growth Strategy of LeaftCraft: From Seeds to Systems",
+      "image": "/images/blog-5.jpeg",
+      "categories": ["Business", "Social Media", "Startups"],
+      "author": "Editor",
+      "date": "April 21, 2025",
+      "pera": "From garage-grown herbs to corporate contracts. How LeaftCraft scaled sustainably. The company culture rooted in growth. Why investors are betting on green businesses..."
+    },
+    {
+      "id": 6,
+      "title": "Leaf and Learn: Educational Programs That Teach Through Nature",
+      "image": "/images/blog-6.jpeg",
+      "categories": ["Business", "Social Media", "Education"],
+      "author": "Editor",
+      "date": "May 1, 2025",
+      "pera": "How LeaftCraft designed school gardens to inspire STEM. Why kids who grow plants grow empathy. From classrooms to greenhouses—learning gets rooted in reality..."
+    },
+    {
+      "id": 7,
+      "title": "The Eco-Renaissance: Plants, People, and a Greener Economy",
+      "image": "/images/blog-7.jpeg",
+      "categories": ["Business", "Social Media", "Economy"],
+      "author": "Editor",
+      "date": "May 2, 2025",
+      "pera": "Why eco-friendly is the new luxury. The brands, like LeaftCraft, leading the charge. What green growth really means for global GDP. The unseen connection between plants and progress..."
+    },
+    {
+      "id": 8,
+      "title": "How Leaf-Based Packaging Is Disrupting Plastic",
+      "image": "/images/blog-8.jpeg",
+      "categories": ["Business", "Social Media", "Product Design"],
+      "author": "Editor",
+      "date": "May 3, 2025",
+      "pera": "The science behind banana fiber wraps. How LeaftCraft turns fallen leaves into functional art. What your next takeout box might be made from. Compostable has never looked this good..."
+    },
+    {
+      "id": 9,
+      "title": "From Urban Stress to Garden Zen: Why Plants Heal",
+      "image": "/images/blog-9.jpeg",
+      "categories": ["Business", "Social Media", "Health"],
+      "author": "Editor",
+      "date": "May 4, 2025",
+      "pera": "How green spaces reduce anxiety. The indoor jungle trend that’s more than decor. LeaftCraft’s community plant therapy sessions. Why soil might be the new serotonin..."
+    },
+    {
+      "id": 10,
+      "title": "The Leaf is the New Logo: Branding in a Climate-Conscious World",
+      "image": "/images/blog-10.jpeg",
+      "categories": ["Business", "Social Media", "Branding"],
+      "author": "Editor",
+      "date": "May 5, 2025",
+      "pera": "Why more brands are embracing plant symbolism. The marketing power of green aesthetics. LeaftCraft’s brand evolution and what it tells us about future consumers..."
+    }
+  ]
+  

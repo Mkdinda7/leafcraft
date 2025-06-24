@@ -1,0 +1,555 @@
+[
+  {
+    "id": 1,
+    "image": "/images/plant-1.jpg",
+    "seconedImage": "/images/plant-2.jpg",
+    "name": "Advi Zamioculcas Plant",
+    "offerPrice": 63,
+    "price": 60,
+    "description": "A stylish and low-maintenance indoor plant that thrives in minimal light—perfect for home or office decor.",
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "image": "/images/plant-3.jpg",
+    "seconedImage": "/images/plant-4.jpg",
+    "name": "Healthy Green Zamia",
+    "offerPrice": 47,
+    "price": 41,
+    "description": "Bring nature indoors with this lush green zamia plant—air-purifying and visually calming.",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "image": "/images/plant-5.jpg",
+    "seconedImage": "/images/plant-6.jpg",
+    "name": "Alobtt Mini Plants",
+    "offerPrice": 57,
+    "price": 50,
+    "description": "Lifelike artificial plants that add greenery to any space without the upkeep—great for desks and bookshelves.",
+    "rating": 4.1
+  },
+  {
+    "id": 4,
+    "image": "/images/plant-7.jpg",
+    "seconedImage": "/images/plant-8.jpg",
+    "name": "Alas Artificial Pot",
+    "offerPrice": 56,
+    "price": 49,
+    "description": "Elegant large-size artificial foliage that enhances modern interiors with minimal maintenance.",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "image": "/images/plant-9.jpg",
+    "seconedImage": "/images/plant-10.jpg",
+    "name": "Sufi Green Fusion",
+    "offerPrice": 70,
+    "price": 63,
+    "description": "A hybrid combo of succulent and leafy plants, offering texture and contrast in any pot arrangement.",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "image": "/images/plant-13.jpg",
+    "seconedImage": "/images/plant-14.jpg",
+    "name": "Bee Aloe Vera",
+    "offerPrice": 49,
+    "price": 46,
+    "description": "A therapeutic aloe vera variety known for its healing properties and minimalist beauty.",
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "image": "/images/plant-15.jpg",
+    "seconedImage": "/images/plant-16.jpg",
+    "name": "Euphorbia Cactus",
+    "offerPrice": 65,
+    "price": 43,
+    "description": "Resilient and drought-tolerant, this cactus brings a modern desert feel to your indoor collection.",
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "image": "/images/plant-17.jpg",
+    "seconedImage": "/images/plant-18.jpg",
+    "name": "Alocasia Polly Pot",
+    "offerPrice": 68,
+    "price": 45,
+    "description": "Known for its dramatic foliage, this plant adds a bold touch to any living room or workspace.",
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "image": "/images/plant-19.jpg",
+    "seconedImage": "/images/plant-20.jpg",
+    "name": "Deep Jungle Fake",
+    "offerPrice": 69,
+    "price": 48,
+    "description": "Tall artificial greenery that mimics the real jungle vibe without watering or pruning.",
+    "rating": 4.0
+  },
+  {
+    "id": 10,
+    "image": "/images/plant-21.jpg",
+    "seconedImage": "/images/plant-22.jpg",
+    "name": "Extic Jute Plant",
+    "offerPrice": 69,
+    "price": 48,
+    "description": "Modern and minimal, this small jute-wrapped plant brings natural texture into any decor style.",
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "image": "/images/plant-23.jpg",
+    "seconedImage": "/images/plant-24.jpg",
+    "name": "BeCalathea Zebrina Plant",
+    "offerPrice": 63,
+    "price": 53,
+    "description": "A striking tropical plant with bold zebra-striped leaves, ideal for vibrant home interiors.",
+    "rating": 4.9
+  },
+  {
+    "id": 12,
+    "image": "/images/plant-25.jpg",
+    "seconedImage": "/images/plant-26.jpg",
+    "name": "Ceramic Caladium Plant",
+    "offerPrice": 72,
+    "price": 56,
+    "description": "Stunning heart-shaped leaves in a ceramic pot—an elegant addition to patios or sunrooms.",
+    "rating": 4.7
+  },
+  {
+    "id": 13,
+    "image": "/images/plant-41.jpg",
+    "seconedImage": "/images/plant-40.jpg",
+    "name": "Peace Lily Selfwatering",
+    "offerPrice": 69,
+    "price": 63,
+    "description": "This peace lily features a self-watering system, making it the perfect plant for busy plant parents.",
+    "rating": 4.5
+  },
+  {
+    "id": 14,
+    "image": "/images/plant-27.jpg",
+    "seconedImage": "/images/plant-28.jpg",
+    "name": "Peace Lily Plant",
+    "offerPrice": 69,
+    "price": 63,
+    "description": "This peace lily features a self-watering system, making it the perfect plant for busy plant parents.",
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "image": "/images/plant-29.jpg",
+    "seconedImage": "/images/plant-30.jpg",
+    "name": "Krimson Aspidistra Indoor",
+    "offerPrice": 80,
+    "price": 72,
+    "description": "Durable and shade-tolerant, this aspidistra thrives in low-light spaces and requires minimal care.",
+    "rating": 4.8
+  },
+  {
+    "id": 16,
+    "image": "/images/plant-15.jpg",
+    "seconedImage": "/images/plant-15.jpg",
+    "name": "Euphorbia Cactus Plant",
+    "offerPrice": 65,
+    "price": 43,
+    "description": "Resilient and drought-tolerant, this cactus brings a modern desert feel to your indoor collection.",
+    "rating": 4.2
+  },
+  
+    {
+    "id": 17,
+    "image": "/images/product-1.png",
+    "seconedImage": "/images/product-2.png",
+    "name": "Zen Snake Plant",
+    "offerPrice": 58,
+    "price": 52,
+    "description": "A hardy indoor plant that improves air quality and adds a bold vertical element to any room.",
+    "rating": 4.4
+  },
+  {
+    "id": 18,
+    "image": "/images/product-3.png",
+    "seconedImage": "/images/product-4.png",
+    "name": "Monstera Mini Delight",
+    "offerPrice": 75,
+    "price": 66,
+    "description": "Compact version of the trendy Monstera, ideal for apartments and small spaces with good lighting.",
+    "rating": 4.6
+  },
+  {
+    "id": 19,
+    "image": "/images/product-5.png",
+    "seconedImage": "/images/product-6.png",
+    "name": "Potted Pilea Peperomioides",
+    "offerPrice": 55,
+    "price": 48,
+    "description": "Also known as the Chinese Money Plant, this cutie brings good fortune and charm.",
+    "rating": 4.3
+  },
+  {
+    "id": 20,
+    "image": "/images/product-7.png",
+    "seconedImage": "/images/product-8.png",
+    "name": "Bonsai Jade Tree",
+    "offerPrice": 82,
+    "price": 75,
+    "description": "A symbol of prosperity, this mini jade bonsai suits tabletops and sunny windows.",
+    "rating": 4.7
+  },
+  {
+    "id": 21,
+    "image": "/images/product-9.png",
+    "seconedImage": "/images/product-10.png",
+    "name": "Trailing English Ivy",
+    "offerPrice": 49,
+    "price": 42,
+    "description": "Easy-growing ivy that creates a lush waterfall of green—perfect for shelves or hanging baskets.",
+    "rating": 4.2
+  },
+  {
+    "id": 22,
+    "image": "/images/product-11.png",
+    "seconedImage": "/images/product-12.png",
+    "name": "Golden Pothos Premium",
+    "offerPrice": 65,
+    "price": 58,
+    "description": "A classic vining houseplant with variegated leaves—known for its toughness and fast growth.",
+    "rating": 4.6
+  },
+  {
+    "id": 23,
+    "image": "/images/product-13.png",
+    "seconedImage": "/images/product-14.png",
+    "name": "Spiral Lucky Bamboo",
+    "offerPrice": 39,
+    "price": 35,
+    "description": "Symbolic and sleek, this tabletop bamboo spiral adds harmony to office or home settings.",
+    "rating": 4.1
+  },
+  {
+    "id": 24,
+    "image": "/images/product-15.png",
+    "seconedImage": "/images/product-16.png",
+    "name": "Rex Begonia Sparkle",
+    "offerPrice": 68,
+    "price": 61,
+    "description": "Eye-catching foliage with sparkling patterns—perfect for plant collectors and enthusiasts.",
+    "rating": 4.5
+  },
+  {
+    "id": 25,
+    "image": "/images/product-17.png",
+    "seconedImage": "/images/product-18.png",
+    "name": "Mini Ficus Bonsai",
+    "offerPrice": 77,
+    "price": 70,
+    "description": "Compact and styled, this ficus bonsai brings peace and structure to any workspace.",
+    "rating": 4.4
+  },
+  {
+    "id": 26,
+    "image": "/images/product-19.png",
+    "seconedImage": "/images/product-20.png",
+    "name": "Neon Syngonium Glow",
+    "offerPrice": 60,
+    "price": 54,
+    "description": "Bright green arrow-shaped leaves add an energetic vibe to any space—great for beginners.",
+    "rating": 4.2
+  },
+  {
+    "id": 27,
+    "image": "/images/product-21.png",
+    "seconedImage": "/images/product-22.png",
+    "name": "Fern Mossy Nook",
+    "offerPrice": 50,
+    "price": 45,
+    "description": "A soft, lush fern that adds a woodland feel to cozy corners or terrariums.",
+    "rating": 4.0
+  },
+  {
+    "id": 28,
+    "image": "/images/product-23.png",
+    "seconedImage": "/images/product-24.png",
+    "name": "Croton Flame Leaf",
+    "offerPrice": 66,
+    "price": 60,
+    "description": "Bold and colorful foliage that lights up any dull space with fiery reds and yellows.",
+    "rating": 4.3
+  },
+  {
+    "id": 29,
+    "image": "/images/product-25.png",
+    "seconedImage": "/images/product-26.png",
+    "name": "Orchid Majesty Pot",
+    "offerPrice": 85,
+    "price": 78,
+    "description": "Graceful blooms in a ceramic pot—ideal for special occasions or classy decor upgrades.",
+    "rating": 4.8
+  },
+  {
+    "id": 30,
+    "image": "/images/product-27.png",
+    "seconedImage": "/images/product-28.png",
+    "name": "Mini ZZ Starter Pack",
+    "offerPrice": 45,
+    "price": 39,
+    "description": "Compact ZZ plants that thrive on neglect and survive low-light—great for newbies.",
+    "rating": 4.1
+  },
+  {
+    "id": 31,
+    "image": "/images/product-29.png",
+    "seconedImage": "/images/product-30.png",
+    "name": "String of Pearls Trail",
+    "offerPrice": 78,
+    "price": 69,
+    "description": "Charming cascading succulent that adds unique texture and whimsy to your space.",
+    "rating": 4.6
+  },
+  {
+    "id": 32,
+    "image": "/images/product-31.png",
+    "seconedImage": "/images/product-32.png",
+    "name": "Calathea Orbifolia",
+    "offerPrice": 73,
+    "price": 66,
+    "description": "Broad silver-striped leaves and a love for humidity make this a stunning tropical centerpiece.",
+    "rating": 4.7
+  },
+  
+  {
+    "id": 33,
+    "image": "/images/bee-green-aloe-squarrosa-vera-clumb.jpg",
+    "seconedImage": "/images/bee-green-aloe-squarrosa-vera-clumb (1).jpg",
+    "name": "bee-green-aloe-squarrosa-vera-clumb",
+    "offerPrice": 59,
+    "price": 52,
+    "description": "A hardy aloe variety with spiky elegance—ideal for sunny spots.",
+    "rating": 4.3
+  },
+  {
+    "id": 34,
+    "image": "/images/advi-decorative-zamioculcas-zamiifolia-plant.jpg",
+    "seconedImage": "/images/advi-decorative-zamioculcas-zamiifolia-plant (1).jpg",
+    "name": "advi-decorative-zamioculcas-zamiifolia-plant",
+    "offerPrice": 77,
+    "price": 68,
+    "description": "Lush green leaves and ultra-low maintenance—great for busy homes.",
+    "rating": 4.6
+  },
+  {
+    "id": 35,
+    "image": "/images/healthy-vibe-green-zamia-zamioculas.jpg",
+    "seconedImage": "/images/healthy-vibe-green-zamia-zamioculas (1).jpg",
+    "name": "healthy-vibe-green-zamia-zamioculas",
+    "offerPrice": 62,
+    "price": 56,
+    "description": "Lush green leaves and ultra-low maintenance—great for busy homes.",
+    "rating": 4.5
+  },
+  {
+    "id": 36,
+    "image": "/images/alobtt-plants-mini-potted-artificial-plants.jpg",
+    "seconedImage": "/images/alobtt-plants-mini-potted-artificial-plants (1).jpg",
+    "name": "alobtt-plants-mini-potted-artificial-plants",
+    "offerPrice": 48,
+    "price": 42,
+    "description": "Lifelike greenery without the upkeep—perfect for decor enthusiasts.",
+    "rating": 4.4
+  },
+  {
+    "id": 37,
+    "image": "/images/calathea-zebrina-gloria-flower-plant.jpg",
+    "seconedImage": "/images/calathea-zebrina-gloria-flower-plant (1).jpg",
+    "name": "calathea-zebrina-gloria-flower-plant",
+    "offerPrice": 66,
+    "price": 58,
+    "description": "Eye-catching foliage and ideal for adding a tropical vibe indoors.",
+    "rating": 4.6
+  },
+  {
+    "id": 38,
+    "image": "/images/alas-large-indoor-artificial-plants-pot.jpg",
+    "seconedImage": "/images/alas-large-indoor-artificial-plants-pot (1).jpg",
+    "name": "alas-large-indoor-artificial-plants-pot",
+    "offerPrice": 72,
+    "price": 64,
+    "description": "Lifelike greenery without the upkeep—perfect for decor enthusiasts.",
+    "rating": 4.7
+  },
+  {
+    "id": 39,
+    "image": "/images/echeveria-succulent-schefflera-umbrella-plant.jpg",
+    "seconedImage": "/images/echeveria-succulent-schefflera-umbrella-plant (1).jpg",
+    "name": "echeveria-succulent-schefflera-umbrella-plant",
+    "offerPrice": 58,
+    "price": 50,
+    "description": "Cute, compact, and easygoing—this succulent adds charm to any space.",
+    "rating": 4.2
+  },
+  {
+    "id": 40,
+    "image": "/images/large-ceramic-caladium-potted-plant.jpg",
+    "seconedImage": "/images/large-ceramic-caladium-potted-plant (1).jpg",
+    "name": "large-ceramic-caladium-potted-plant",
+    "offerPrice": 69,
+    "price": 61,
+    "description": "A beautiful large plant to enhance your indoor greenery.",
+    "rating": 4.8
+  },
+  {
+    "id": 41,
+    "image": "/images/exoticrareplants-small-jute-modern-plant.jpg",
+    "seconedImage": "/images/exoticrareplants-small-jute-modern-plant (1).jpg",
+    "name": "exoticrareplants-small-jute-modern-plant",
+    "offerPrice": 54,
+    "price": 47,
+    "description": "A beautiful exoticrareplants plant to enhance your indoor greenery.",
+    "rating": 4.4
+  },
+  {
+    "id": 42,
+    "image": "/images/little-krimson-aspidistra-indoor-plant.jpg",
+    "seconedImage": "/images/little-krimson-aspidistra-indoor-plant (1).jpg",
+    "name": "little-krimson-aspidistra-indoor-plant",
+    "offerPrice": 63,
+    "price": 57,
+    "description": "Eye-catching foliage and ideal for adding a tropical vibe indoors.",
+    "rating": 4.5
+  },
+  {
+    "id": 43,
+    "image": "/images/euphorbia-natural-cactus-potted-plant.jpg",
+    "seconedImage": "/images/euphorbia-natural-cactus-potted-plant (1).jpg",
+    "name": "euphorbia-natural-cactus-potted-plant",
+    "offerPrice": 70,
+    "price": 62,
+    "description": "A charming cactus for modern interiors—bold and easy-care.",
+    "rating": 4.6
+  },
+  {
+    "id": 44,
+    "image": "/images/royal-land-tree-philodendron-plant.jpg",
+    "seconedImage": "/images/royal-land-tree-philodendron-plant (1).jpg",
+    "name": "royal-land-tree-philodendron-plant",
+    "offerPrice": 50,
+    "price": 44,
+    "description": "Royal green leaves that thrive in bright spaces—pure tropical luxury.",
+    "rating": 4.2
+  },
+  {
+    "id": 45,
+    "image": "/images/dracaena-trifasciata-big-ornamental-plant.jpg",
+    "seconedImage": "/images/dracaena-trifasciata-big-ornamental-plant (1).jpg",
+    "name": "dracaena-trifasciata-big-ornamental-plant",
+    "offerPrice": 68,
+    "price": 61,
+    "description": "Tall and architectural, this air-purifying plant fits any modern space.",
+    "rating": 4.7
+  },
+  {
+    "id": 46,
+    "image": "/images/simple-natural-aglaonema-outdoor-plant.jpg",
+    "seconedImage": "/images/simple-natural-aglaonema-outdoor-plant (1).jpg",
+    "name": "simple-natural-aglaonema-outdoor-plant",
+    "offerPrice": 66,
+    "price": 59,
+    "description": "Tough and colorful foliage that makes a great outdoor feature.",
+    "rating": 4.4
+  },
+  {
+    "id": 47,
+    "image": "/images/tied-artificial-swiss-cheese-potted-plant.jpg",
+    "seconedImage": "/images/tied-artificial-swiss-cheese-potted-plant (1).jpg",
+    "name": "tied-artificial-swiss-cheese-potted-plant",
+    "offerPrice": 55,
+    "price": 49,
+    "description": "Realistic artificial Monstera with signature split leaves—zero maintenance.",
+    "rating": 4.5
+  },
+  {
+    "id": 48,
+    "image": "/images/peace-fresh-self-watering-lily-live-plant.jpg",
+    "seconedImage": "/images/peace-fresh-self-watering-lily-live-plant (1).jpg",
+    "name": "peace-fresh-self-watering-lily-live-plant",
+    "offerPrice": 75,
+    "price": 68,
+    "description": "A self-watering peace lily that brings calm and convenience together.",
+    "rating": 4.6
+  },
+  {
+    "id": 49,
+    "image": "/images/philo-alobtt-artificial-new-xanadu-plant.jpg",
+    "seconedImage": "/images/philo-alobtt-artificial-new-xanadu-plant (1).jpg",
+    "name": "philo-alobtt-artificial-new-xanadu-plant",
+    "offerPrice": 69,
+    "price": 61,
+    "description": "Artificial yet stunning—this Xanadu adds elegance to any space.",
+    "rating": 4.5
+  },
+  {
+    "id": 50,
+    "image": "/images/mug-the-best-is-yet-to-come.jpg",
+    "seconedImage": "/images/mug-the-best-is-yet-to-come (1).jpg",
+    "name": "mug-the-best-is-yet-to-come",
+    "offerPrice": 72,
+    "price": 66,
+    "description": "Inspirational mug paired with a fresh plant for meaningful gifting.",
+    "rating": 4.3
+  },
+  {
+    "id": 51,
+    "image": "/images/zamioculcas-rospicta-fresh-indoor-plants.jpg",
+    "seconedImage": "/images/zamioculcas-rospicta-fresh-indoor-plants (1).jpg",
+    "name": "zamioculcas-rospicta-fresh-indoor-plants",
+    "offerPrice": 74,
+    "price": 67,
+    "description": "Stylish and glossy, this ZZ plant thrives in low-light interiors.",
+    "rating": 4.6
+  },
+  {
+    "id": 52,
+    "image": "/images/alocasia-natural-polly-plant-in-white-pot.jpg",
+    "seconedImage": "/images/alocasia-natural-polly-plant-in-white-pot (1).jpg",
+    "name": "alocasia-natural-polly-plant-in-white-pot",
+    "offerPrice": 79,
+    "price": 70,
+    "description": "Distinctive arrow-shaped leaves in a chic white pot—bold and modern.",
+    "rating": 4.7
+  },
+  {
+    "id": 53,
+    "image": "/images/noreva-hoya-cloud-farm-zz-plant.jpg",
+    "seconedImage": "/images/noreva-hoya-cloud-farm-zz-plant (1).jpg",
+    "name": "noreva-hoya-cloud-farm-zz-plant",
+    "offerPrice": 64,
+    "price": 56,
+    "description": "Rare and resilient, this ZZ plant adds structure and elegance indoors.",
+    "rating": 4.4
+  },
+  {
+    "id": 54,
+    "image": "/images/deep-jungle-wukoku-tall-fake-plants.jpg",
+    "seconedImage": "/images/deep-jungle-wukoku-tall-fake-plants (1).jpg",
+    "name": "deep-jungle-wukoku-tall-fake-plants",
+    "offerPrice": 48,
+    "price": 42,
+    "description": "Tall faux greenery for dramatic interiors—zero maintenance required.",
+    "rating": 4.3
+  },
+  {
+    "id": 55,
+    "image": "/images/fresh-eucalyptus-cinerea-live-plant.jpg",
+    "seconedImage": "/images/fresh-eucalyptus-cinerea-live-plant (1).jpg",
+    "name": "fresh-eucalyptus-cinerea-live-plant",
+    "offerPrice": 83,
+    "price": 75,
+    "description": "Fragrant, silvery-blue leaves—perfect for fresh air and soothing ambiance.",
+    "rating": 4.8
+  }
+
+]
