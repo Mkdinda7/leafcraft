@@ -31,7 +31,7 @@ const Login = () => {
       <div className="section pt-5" 
       style={{ 
         marginTop: '80px',
-        height: "600px",
+        height: "100dvh",
         backgroundImage : `URL(${loginbanner})`,
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover"

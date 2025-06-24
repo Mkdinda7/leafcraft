@@ -38,7 +38,8 @@ const Signup = () => {
          marginTop: "80px",
          backgroundImage: `url(${registerbanner})`,
          backgroundSize: "cover",
-         backgroundRepeat: "no-repeat" 
+         backgroundRepeat: "no-repeat", 
+         height: "100dvh",
         }}>
         <div className="container py-5 d-flex justify-content-center">
           <div className="p-4 custom-shadow" 
